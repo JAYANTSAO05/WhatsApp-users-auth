@@ -1,6 +1,10 @@
 {
-  "admin_email": "freelancerjayant24@gmail.com",
-  "admin_password_hash": "Jayant@542002",
-  "backup_email": "freelancerjayant24@gmail.com",
+  "users": {
+    "freelancerjayant24@gmail.com": "268324232ce8e03ed011e3ac49dc9ff12150f82ba34e0b2a9771c967432b1835",
+    "jayant.sao@baayo.in": "268324232ce8e03ed011e3ac49dc9ff12150f82ba34e0b2a9771c967432b1835",
+    "arti.rani@baayo.in": "acb55970efaeaaa6aee4cf4fabf3e457987383ab3348ef174d3f049788d437c4",
+    "hirdesh.tomar@baayo.in": "15b1dc80a2f3571c1cde8c9eeefa771308d3c65fa61c1fe509b43c51a83483e7",
+    "pranay.paunikar@baayo.in": "da671428444fc8566651c81c959f78adb092ad34919f55c97a3e36675da481b7"
+  },
   "last_updated": "2025-07-05"
 }
