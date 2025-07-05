@@ -1,0 +1,5 @@
+{
+  "admin_email": "your-admin@example.com",
+  "admin_password_hash": "your_encrypted_password_here",
+  "last_updated": "2025-07-05"
+}
