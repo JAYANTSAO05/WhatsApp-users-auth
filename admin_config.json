@@ -1,11 +1,12 @@
 {
   "users": {
-    "freelancerjayant24@gmail.com": "Jayant@542002",
-    "jayant.sao@baayo.in": "Jayant@542002",
-    "arti.rani@baayo.in": "Arti@baayo",
-    "hirdesh.tomar@baayo.in": "Hirdesh@baayo",
-    "pranay.paunikar@baayo.in": "Pranay@baayo"
+    "freelancerjayant24@gmail.com": "U21GNVlXNTBRRFUwTWpBd01nPT0=",
+    "jayant.sao@baayo.in": "U21GNVlXNTBRRFUwTWpBd01nPT0=",
+    "arti.rani@baayo.in": "UVhKMGFVQmlZV0Y1Ync9PQ==",
+    "hirdesh.tomar@baayo.in": "U0dseVpHVnphRUJpWVdGNWJ3PT0=",
+    "pranay.paunikar@baayo.in": "VUhKaGJtRjVRR0poWVhsdg=="
   },
   "last_updated": "2025-07-05",
-  "password_type": "plain_text"
+  "password_type": "encoded",
+  "encoding": "base64_double"
 }
